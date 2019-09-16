@@ -1,0 +1,237 @@
+---
+title: "Data Visualization Assignment #2"
+author: "Ku, Bonseong"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: true
+    highlight: github
+---
+# 들어가며
+[**지진**]이란 지하에 강한 충격이 가해지거나, 단층이 미끌리면서 그 에너지가 방출되어 땅이 흔들리는 현상을 말한다. 우리나라에서도 최근 포항에서 지진이 일어날 만큼 사람들의 지진에 대한 관심이 증가했다.   
+
+이 문서에서는   
+* `leaflet` 패키지를 주로 사용하여 지도에 지진데이터를 맵핑하고,  
+* `treemap` 패키지를 이용하여 지진데이터에 대한 정보를 재미있게 표현하고자 한다.  
+
+
+
+
+# 필요한 패키지와 데이터 불러오기
+
+```{r message=FALSE, warning=FALSE}
+library(lubridate)
+library(xts)
+library(ggplot2)
+library(dplyr)
+library(maps)
+library(leaflet)
+library(DT)
+library(maptools)
+library(viridisLite)
+library(highcharter)
+library(treemap)
+library(viridisLite)
+library(magrittr)
+```
+
+```{r , warning=TRUE}
+quake<- read.csv('D:/HUFS/4-1/데이터시각화/과제2/rawdata/database.csv/database.csv')
+quake <- quake[,c("Date", "Time", "Latitude",
+                  "Longitude", "Type", "Depth",
+                  "Magnitude", "Magnitude.Type") ] #데이터 라벨링
+```
+
+```{r, echo=FALSE}
+quake$Date <- as.Date(quake$Date, format = "%m/%d/%Y")
+
+quake$Year<- year(quake$Date)
+quake$Month <- month(quake$Date)
+quake$Day <- day(quake$Date)
+```
+
+
+#Mapping 
+
+`leaflet` 패키지를 이용하여
+하나의 특정 영역을 확대하거나 클릭하여 지진에 대한
+자세한 정보를 얻을 수있는 데이터 포인트를 그룹화하는 데 유용한 도구이다.
+
+```{r, fig.align= "center", tidy=FALSE}
+quake %>%
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(lat=quake$Latitude, lng=quake$Longitude,
+             clusterOptions = markerClusterOptions(),
+             popup= paste(quake$Type,
+        "<br><strong>Magnitude: </strong>", quake$Magnitude,
+        "<br><strong>Depth: </strong>", quake$Depth,
+        "<br><strong>Date: </strong>", quake$Date,
+        "<br><strong>Date: </strong>", quake$Time
+          ))
+```
+
+
+```{r, fig.align= "center"}
+quake %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers(lat=quake$Latitude, lng=quake$Longitude, weight=1, radius=1,
+                   color= ifelse(quake$Magnitude>6.5,"red","yellow"),stroke=TRUE,
+                   popup= paste(quake$Type,
+        "<br><strong>Magnitude: </strong>", quake$Magnitude,
+        "<br><strong>Depth: </strong>", quake$Depth,
+        "<br><strong>Date: </strong>", quake$Date,
+        "<br><strong>Date: </strong>", quake$Time)) %>%
+  addLegend(labels=c("규모 > 6.5", "규모 < 6.5"), colors=c("red","yellow"))
+
+```
+
+<br>
+지진 데이터는 각 점이 모여 마치 띠를 두르는 듯 분포하고 있다.
+이는 판과 판 사이의 경계에서 지진이 일어나기 때문이다.
+아래 [**사진**]은 판과 판의 경계를 보여준다.
+<br>
+![](D:/HUFS/4-1/데이터시각화/과제2/지진대.jpg)\center
+
+<br>
+
+
+
+#어떤 국가가 제일 지진이 많이 일어날까?
+
+지진의 영향을 받는 국가들을 알아보기 위해, 데이터를 먼저 분석하기 쉽도록 변형한다.
+
+```{r, fig.align= "center"}
+    world <- map('world', fill=TRUE, col="transparent", plot=FALSE)
+    IDs <- sapply(strsplit(world$names, ":"), function(x) x[1])
+    world_sp <- map2SpatialPolygons(world, IDs=IDs,
+                     proj4string=CRS("+proj=longlat +datum=WGS84"))
+    pointsSP <- SpatialPoints(cbind(x = quake$Longitude, y= quake$Latitude), 
+                    proj4string=CRS("+proj=longlat +datum=WGS84"))
+    indices <- over(pointsSP, world_sp)
+    stateNames <- sapply(world_sp@polygons, function(x) x@ID)
+    quake$Country <- stateNames[indices]
+    
+    quake_Country <- quake[!is.na(quake$Country),]
+```
+
+# 아시아 3국의 지진
+전 Chapter에서 알아 보았듯, [**인도네시아**]는 지진이 가장 많이 일어나는 국가다.
+`ggplot2`을 이용하여, 인도네시아와 일본, 중국에서의 지진 timeline을 그려보았다.
+보통 진도 6 이상이라고 하면, 사람이 서있기 힘든 정도라고 한다.
+
+```{r}
+
+quakes_filtered_1c <- quake_Country %>%
+        filter(Country %in% c("Indonesia",'Japan','China')
+               & Year >= 2010 & Magnitude > 6)
+
+timeline1 <- ggplot() +
+        geom_point(data = quakes_filtered_1c,
+                   aes(x = Date, y = Country, size = Magnitude,color=Country))+
+  theme_classic()+ggtitle('Earthquake timeline in 3 Countries')
+timeline1
+```
+
+
+#국가별 지진의 디렉토리
+
+```{r, fig.align= "center"}
+directory <- quake_Country[, c("Country","Year","Month","Magnitude","Depth")] 
+datatable(directory)
+```
+
+<br>
+
+`Treemap`을 이용해, 국가별 지진의 발생 총계를 알아본다.
+그 중 인도네시아는 가장 많은 지진을 겪었다.
+일정 진도 이상의 지진데이터가 모였기 때문에, 한국은 데이터가 없는 것으로 추정된다.
+<br>
+```{r, warning=FALSE, fig.align= "center"}
+sum_Country <- quake_Country %>%
+ group_by(Country) %>%
+summarise(Earthquakes=n())
+
+
+sum_Country %>%
+  hchart("treemap", hcaes(x = Country, value = Earthquakes, color=Earthquakes)) %>%
+  hc_credits(enabled = TRUE, style = list(fontSize = "10px")) %>%
+  hc_title(text = "Earthquakes per Country")
+  
+```
+
+<br>
+ `hchart`의 treemap을 이용하면 많은 데이터의 갯수와 비율을 표현할 수 있다.
+<br>
+
+
+
+
+#일자, 연도별 지진 분석
+`ggplot` 을 이용해 각 일자별로 쪼개어 지진이 언제 제일 발생하는지 알아도록 하자.
+
+```{r, fig.align= "center"}
+quake<- quake[!is.na(quake$Date),]
+```
+
+
+##연도진(year) 별 지진
+```{r, fig.align= "center"}
+per_year <- quake %>%
+  filter(Type=="Earthquake") %>%
+  group_by(Year) %>%
+summarise(Observations=n())
+
+
+ggplot(per_year, aes(x=Year,y=Observations))+geom_bar(stat = "identity",fill="#58ACFA")+
+labs(y="Observations",
+      x="Year",
+      title="Earthquakes per Year",
+      caption="Source: Significant Earthquakes, 1965-2016")+
+theme_grey()
+```
+
+##달(month) 별 지진
+```{r, fig.align= "center"}
+
+per_month <- quake %>%
+  filter(Type=="Earthquake") %>%
+  group_by (Year, Month) %>%
+  summarise(Observations=n())
+
+per_month <- per_month %>%
+  group_by (Month) %>%
+  summarise(Mean=mean(Observations))
+
+ggplot(per_month, aes(x=Month,y=Mean))+geom_bar(stat = "identity",fill="#58ACFA")+
+labs(y="Average",
+      x="Month",
+      title="Average Earthquakes per Month",
+      caption="Source: Significant Earthquakes, 1965-2016")+
+theme_grey()
+```
+
+##날짜(day) 별 지진
+```{r, fig.align= "center"}
+per_day <- quake %>%
+  filter(Type=="Earthquake") %>%
+  group_by (Day,Year) %>%
+  summarise(Observations=n())
+
+per_day <- per_day %>%
+  group_by (Day) %>%
+  summarise(Mean=mean(Observations))
+
+ggplot(per_day, aes(x=Day,y=Mean))+geom_bar(stat = "identity",fill="#58ACFA")+
+labs(y="Mean",
+      x="Day",
+      title="Avergae Earthquakes per Day of a Month",
+      caption="Source: Significant Earthquakes, 1965-2016")+
+theme_grey()
+
+```
+<br>
+지구의 역사는 몇십억년에 달할만큼 아주 길지만, 지진의 관측을 시행한 것은 50년이 조금 넘었을 뿐이다. <br>
+따라서, 지진이 증가하는지 감소하는지에 대한 판단을 하는 것은 유의미하지 않다.

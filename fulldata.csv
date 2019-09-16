@@ -1,0 +1,748 @@
+name,category,lat,lng,score
+Les Sablons (Jardin d'acclimatation),subway,48.88129914,2.271915173,
+La D?fense (Grande Arche),subway,48.89182671,2.23799204,
+Porte de Vincennes,subway,48.84701648,2.410816879,
+Porte Maillot,subway,48.87800614,2.282465637,
+Gare de Lyon,subway,48.84555975,2.373449202,
+Ch?telet,subway,48.85856963,2.347933243,
+Tuileries,subway,48.86478012,2.329094951,
+Esplanade de la D?fense,subway,48.88835802,2.24993721,
+Philippe Auguste,subway,48.8583788,2.389734729,
+Courcelles,subway,48.87927211,2.303298543,
+Victor Hugo,subway,48.86986487,2.285226204,
+Monceau,subway,48.88057685,2.309415943,
+Couronnes,subway,48.86932913,2.380536363,
+Jaur?s,subway,48.88276851,2.369945796,
+Anvers,subway,48.88287165,2.344163569,
+Avron,subway,48.85119378,2.398239137,
+R?aumur-S?bastopol,subway,48.86628032,2.352484794,
+Porte de Champerret,subway,48.88573912,2.291860617,
+Arts-et-M?tiers,subway,48.86555182,2.356108152,
+P?re-Lachaise,subway,48.86294562,2.386892401,
+Saint-Lazare,subway,48.87568147,2.325591581,
+Malesherbes,subway,48.88253643,2.31100924,
+Pigalle,subway,48.88242249,2.337254679,
+Ternes,subway,48.878228,2.298121429,
+Mairie de Montrouge,subway,48.8184663,2.319643215,
+Marcadet-Poissonniers,subway,48.89154389,2.349371112,
+Montparnasse-Bienvenue,subway,48.84418947,2.324441229,
+Denfert-Rochereau,subway,48.83427677,2.332203794,
+Mouton-Duvernet,subway,48.83219156,2.330406989,
+Les Halles,subway,48.86201193,2.346476449,
+Simplon,subway,48.89477952,2.346645842,
+Od?on,subway,48.852198,2.33878,
+Porte de Clignancourt,subway,48.89797013,2.34398838,
+Gare de l'Est (Verdun),subway,48.8766958,2.357992507,
+Anatole-France,subway,48.89201859,2.285517441,
+Gare du Nord,subway,48.87974302,2.354600807,
+Raspail,subway,48.83915694,2.330474148,
+Pereire,subway,48.88503102,2.297135108,
+Vavin,subway,48.84205982,2.328867047,
+Porte de Pantin,subway,48.88858394,2.392422872,
+Richard-Lenoir,subway,48.86068595,2.372410929,
+Br?guet-Sabin,subway,48.85676791,2.370773855,
+Place d'Italie,subway,48.83128261,2.355455867,
+Oberkampf,subway,48.86403017,2.369184769,
+Chauss?e d'Antin (La Fayette),subway,48.87298578,2.333426221,
+Porte de la Villette,subway,48.89752912,2.385644227,
+Porte de Choisy,subway,48.81978564,2.364625272,
+Porte d'Italie,subway,48.81898648,2.361208682,
+Concorde,subway,48.86550718,2.320362853,
+Porte d'Ivry,subway,48.82135732,2.369308234,
+Crim?e,subway,48.89028873,2.376778646,
+Place Monge (Jardin des Plantes),subway,48.84316465,2.352110359,
+Trocad?ro,subway,48.86266687,2.287263058,
+Corvisart,subway,48.8296027,2.34937026,
+Pont Neuf,subway,48.85853406,2.342117235,
+Jussieu,subway,48.84596839,2.354807389,
+Passy,subway,48.85753434,2.285592702,
+Daumesnil (F?lix Ebou?),subway,48.83937642,2.395788057,
+Quai de la Gare,subway,48.83761464,2.373852112,
+Chevaleret,subway,48.83457876,2.366933896,
+Boissi?re,subway,48.86685611,2.29003807,
+Glaci?re,subway,48.83086136,2.34455143,
+Dugommier,subway,48.83887611,2.389347384,
+Picpus,subway,48.84532307,2.40178631,
+Bercy,subway,48.8401922,2.379477254,
+Porte de Saint-Cloud,subway,48.83756529,2.255591271,
+Pont de S?vres,subway,48.8296903,2.230528431,
+Marcel Sembat,subway,48.83380855,2.243480611,
+Saint-Ambroise,subway,48.86164738,2.373147137,
+R?publique,subway,48.86741079,2.363587822,
+La Motte-Picquet-Grenelle,subway,48.84882123,2.297952961,
+Mairie des Lilas,subway,48.88005102,2.415660203,
+Cardinal-Lemoine,subway,48.84670583,2.351335176,
+S?vres-Babylone,subway,48.85093925,2.326114651,
+H?tel de Ville,subway,48.85780533,2.351460773,
+Pyr?n?es,subway,48.87382113,2.384886369,
+S?gur,subway,48.84686466,2.307268844,
+Malakoff-Plateau de Vanves,subway,48.82244265,2.297932102,
+Nation,subway,48.84811119,2.398004009,
+Bastille,subway,48.85297563,2.369218821,
+Saint-Paul (Le Marais),subway,48.85513448,2.361334336,
+Franklin-Roosevelt,subway,48.86901039,2.310253178,
+Pont de Neuilly,subway,48.88550607,2.258527467,
+Champs-Elys?es-Cl?menceau,subway,48.86774399,2.314122777,
+Charles de Gaulle-Etoile,subway,48.87393105,2.295127248,
+Argentine,subway,48.87567245,2.289444161,
+Belleville,subway,48.87228728,2.376737674,
+Blanche,subway,48.88377048,2.332485145,
+Villiers,subway,48.88132425,2.316596758,
+M?nilmontant,subway,48.86570575,2.384429372,
+Porte de Bagnolet,subway,48.86433649,2.408825373,
+Parmentier,subway,48.86525982,2.374757078,
+Temple,subway,48.86676413,2.361571324,
+Havre-Caumartin,subway,48.87346185,2.328480481,
+Wagram,subway,48.88371244,2.305557754,
+Sentier,subway,48.86735034,2.347567232,
+Ch?teau d'Eau,subway,48.87245411,2.356056165,
+Strasbourg-Saint-Denis,subway,48.86963232,2.35450206,
+Cit?,subway,48.85568481,2.346202926,
+Saint-Placide,subway,48.8470118,2.327055108,
+Al?sia,subway,48.82806598,2.326827417,
+Campo-Formio,subway,48.83555118,2.358752092,
+Eglise de Pantin,subway,48.89363249,2.412900263,
+Jacques-Bonsergent,subway,48.87070078,2.360578632,
+Quai de la Rap?e,subway,48.84596599,2.366913176,
+Saint-Jacques,subway,48.83299165,2.336682893,
+Bir-Hakeim (Grenelle),subway,48.85432718,2.2888101,
+Kl?ber,subway,48.87130611,2.293331018,
+Edgar-Quinet,subway,48.84056769,2.326402812,
+Riquet,subway,48.88839319,2.374433106,
+L1s Blanc,subway,48.88090039,2.365107215,
+Censier-Daubenton,subway,48.84059426,2.35175561,
+Tolbiac,subway,48.82615941,2.357019463,
+Cadet,subway,48.87582568,2.343345121,
+Pyramides,subway,48.86649695,2.334094212,
+Palais-Royal (Mus?e du Louvre),subway,48.86336038,2.335456591,
+Sully-Morland,subway,48.85079355,2.36123699,
+Balard,subway,48.83681495,2.278683343,
+Commerce,subway,48.84461363,2.293802977,
+Richelieu-Drouot,subway,48.8720062,2.339911387,
+Montgallet,subway,48.84414269,2.38962501,
+Michel Bizot,subway,48.836991,2.402919604,
+Libert?,subway,48.82563707,2.407410802,
+Lourmel,subway,48.83866809,2.282248485,
+La Tour-Maubourg,subway,48.85722782,2.309796222,
+Michel-Ange-Auteuil,subway,48.84792455,2.264235902,
+Jasmin,subway,48.85243848,2.26793392,
+La Muette,subway,48.85809501,2.274096445,
+Grands Boulevards,subway,48.87151178,2.343208374,
+Voltaire (L?on Blum),subway,48.85766369,2.380036293,
+Saint-Fargeau,subway,48.87174478,2.404162538,
+Cit? Universitaire,subway,48.82033702,2.339690971,
+Saint-Fran?ois-Xavier,subway,48.85098252,2.314429861,
+Porte de Saint-Ouen,subway,48.89751169,2.329021644,
+Porte de Vanves,subway,48.82776529,2.304312347,
+Place de Clichy,subway,48.88320396,2.327266021,
+Ga?t?,subway,48.83875178,2.322509183,
+Li?ge,subway,48.87953713,2.326857944,
+Boulogne Pont de Saint-Cloud,subway,48.84068012,2.228313658,
+Boulogne-Jean-Jaur?s,subway,48.8422801,2.238862972,
+Cluny-La Sorbonne,subway,48.85079571,2.345030885,
+Avenue Emile-Zola,subway,48.84685211,2.295448825,
+Saint-Augustin,subway,48.87438672,2.320727829,
+Mara?chers,subway,48.85260036,2.406384986,
+Mirabeau,subway,48.84708482,2.273074912,
+Charonne,subway,48.85464201,2.38503219,
+Vaneau,subway,48.84870081,2.321239879,
+Duroc,subway,48.84684873,2.316937308,
+Cour Saint-Emilion,subway,48.83331367,2.387299701,
+Funiculaire Gare haute,subway,48.88556787,2.343114595,
+Porte de Clichy,subway,48.89439109,2.313606573,
+Porte des Lilas,subway,48.87693818,2.406376564,
+Olympiades,subway,48.82694824,2.36703843,
+Brochant,subway,48.89061761,2.320191121,
+Saint-Philippe du Roule,subway,48.87247063,2.310769098,
+Rue des Boulets,subway,48.85222267,2.389115648,
+Alma-Marceau,subway,48.86429863,2.301251407,
+Billancourt,subway,48.8320876,2.238160774,
+Ranelagh,subway,48.85550436,2.269959175,
+F?lix Faure,subway,48.84282453,2.292224963,
+Maison Blanche,subway,48.82287873,2.358079891,
+Filles du Calvaire,subway,48.86307814,2.36674588,
+Reuilly-Diderot,subway,48.84721746,2.387204174,
+Ecole Militaire,subway,48.85426088,2.305439557,
+Op?ra,subway,48.87063104,2.331737045,
+Faidherbe-Chaligny,subway,48.85006763,2.384428767,
+Charenton-Ecoles,subway,48.82148978,2.413856759,
+Bonne Nouvelle,subway,48.87057671,2.34849429,
+Porte Dor?e,subway,48.83549721,2.406185209,
+Porte de Montreuil,subway,48.85337984,2.410458184,
+Chardon-Lagache,subway,48.8451041,2.266936056,
+Charles Michels,subway,48.84636293,2.285631063,
+Javel-Andr?-Citroen,subway,48.84596384,2.277815123,
+Mabillon,subway,48.85284509,2.335143715,
+T?l?graphe,subway,48.87552241,2.398676508,
+Jourdain,subway,48.87524825,2.389329431,
+Place des F?tes,subway,48.87672943,2.393146028,
+Pasteur,subway,48.8428305,2.312663304,
+Notre-Dame des Champs,subway,48.84478301,2.32844448,
+Solf?rino,subway,48.85853332,2.323089245,
+Jules Joffrin,subway,48.89249694,2.344328407,
+Mairie d'Issy,subway,48.82434649,2.273565826,
+Porte de Versailles,subway,48.83225341,2.287864134,
+Volontaires,subway,48.8414184,2.307993646,
+Trinit?-d'Estienne d'Orves,subway,48.876329,2.331804565,
+Abbesses,subway,48.88439967,2.338399381,
+Invalides,subway,48.86085075,2.314548109,
+La Fourche,subway,48.8874368,2.325725219,
+Madeleine,subway,48.86957893,2.324162485,
+Biblioth?que-Fran?ois Mitterrand,subway,48.82983065,2.376120006,
+Funiculaire Gare basse,subway,48.88458826,2.343196249,
+Buttes-Chaumont,subway,48.87749834,2.381238088,
+Bolivar,subway,48.88080812,2.373937113,
+Auber,subway,48.87260814,2.329706813,
+Ch?telet-Les Halles,subway,48.86146367,2.346844128,
+Port Royal,subway,48.83988513,2.336873438,
+George V,subway,48.87204558,2.300769182,
+Barb?s-Rochechouart,subway,48.88368007,2.3495328,
+Alexandre-Dumas,subway,48.85642631,2.394554254,
+La Chapelle,subway,48.88438866,2.359276561,
+Stalingrad,subway,48.88418925,2.367030439,
+Porte Dauphine (Mar?chal de Lattre de Tassigny),subway,48.87179218,2.274869958,
+Gallieni (Parc de Bagnolet),subway,48.86326249,2.415975365,
+Gambetta,subway,48.86478266,2.39844583,
+Bourse,subway,48.86876175,2.340674125,
+Ch?teau Landon,subway,48.87845653,2.362053713,
+Corentin-Cariou,subway,48.8946815,2.382302191,
+Poissonni?re,subway,48.87735305,2.349381421,
+Le Peletier,subway,48.87496302,2.340156788,
+Chemin Vert,subway,48.8575865,2.368036692,
+Exelmans,subway,48.84290694,2.260144395,
+Buzenval,subway,48.85139883,2.401398926,
+Gare d'Austerlitz,subway,48.84341418,2.36418839,
+Saint-Marcel,subway,48.83944224,2.361640211,
+Bel-Air,subway,48.84217779,2.401142431,
+Ourcq,subway,48.88661875,2.385484133,
+Hoche,subway,48.89149934,2.403124957,
+Pont de Levallois-B?con,subway,48.89730986,2.280768639,
+Ch?teau Rouge,subway,48.88708624,2.34937007,
+Saint-Sulpice,subway,48.85114631,2.330962853,
+Les Gobelins,subway,48.8361274,2.352081115,
+Boucicaut,subway,48.84102531,2.287923864,
+S?vres-Lecourbe,subway,48.84499611,2.310864827,
+Saint-S?bastien-Froissart,subway,48.86097496,2.367262292,
+Porte de Charenton,subway,48.83266031,2.400463635,
+Pr?-Saint-Gervais,subway,48.88036661,2.39855961,
+Botzaris,subway,48.87928363,2.389129094,
+Vaugirard (Adolphe Ch?rioux),subway,48.83943924,2.301078039,
+Lamarck-Caulaincourt,subway,48.88973807,2.339149083,
+Assembl?e Nationale,subway,48.86145386,2.320309687,
+Corentin-Celton,subway,48.82682985,2.278966858,
+Rennes,subway,48.84819823,2.328021745,
+Guy-M?quet,subway,48.89300902,2.327495836,
+Plaisance,subway,48.83175805,2.313866547,
+Rue de la Pompe (Avenue Georges Mandel),subway,48.86425334,2.277916759,
+Michel-Ange-Molitor,subway,48.84505609,2.26191142,
+Miromesnil,subway,48.8735321,2.315578022,
+I?na,subway,48.86435016,2.29404526,
+Convention,subway,48.83713691,2.296396087,
+Falgui?re,subway,48.84432334,2.317564673,
+Rambuteau,subway,48.86119335,2.353286957,
+Saint-Michel Notre-Dame,subway,48.85395021,2.346556731,
+Luxembourg,subway,48.84677852,2.340441178,
+Porte d'Auteuil,subway,48.84822594,2.257698882,
+Goncourt (H?pital Saint-L1s),subway,48.87001531,2.370768796,
+Saint-Georges,subway,48.87859391,2.337826966,
+Pernety,subway,48.83393378,2.317908969,
+Pelleport,subway,48.8682234,2.401147276,
+Louvre-Rivoli,subway,48.86087982,2.340973272,
+Porte d'Orl?ans (G?n?ral Leclerc),subway,48.82281702,2.325072622,
+Laumi?re,subway,48.88493157,2.379091244,
+Quatre Septembre,subway,48.86966053,2.336328278,
+Europe,subway,48.8790604,2.322974629,
+Dupleix,subway,48.85074261,2.292463223,
+Colonel Fabien,subway,48.87818494,2.370174543,
+Rome,subway,48.88207079,2.320398336,
+Saint-Germain des Pr?s,subway,48.8534472,2.333046323,
+Etienne Marcel,subway,48.86371033,2.348983193,
+Saint-Michel,subway,48.85359987,2.343996238,
+L1se Michel,subway,48.88926958,2.288055121,
+Pont Marie (Cit? des Arts),subway,48.85346354,2.357383969,
+Rue du Bac,subway,48.8558913,2.325704991,
+Marx-Dormoy,subway,48.89037404,2.359797005,
+Porte de la Chapelle,subway,48.89795931,2.359241435,
+Notre-Dame de Lorette,subway,48.87679645,2.339025981,
+Nationale,subway,48.83288125,2.361909405,
+Cambronne,subway,48.84769907,2.30203914,
+Ledru-Rollin,subway,48.85119412,2.375931734,
+Varenne,subway,48.85639303,2.314754361,
+Maubert-Mutualit?,subway,48.8497169,2.348925555,
+Eglise d'Auteuil,subway,48.84788318,2.270295889,
+Danube,subway,48.88200499,2.393069956,
+¿¡ÆçÅ¾,landmark,48.8583701,2.2944813,
+¼¾°­,landmark,48.856614,2.3522219,
+°³¼±¹®,landmark,48.8737917,2.2950275,
+³ëÆ®¸£´ã´ë¼º´ç,landmark,48.8529682,2.3499021,
+·çºê·ç¹Ú¹°°ü,landmark,48.8606111,2.337644,
+¿À¸£¼¼¹Ì¼ú°ü,landmark,48.8599614,2.3265614,
+º£¸£»çÀÌÀ¯±ÃÀü,landmark,48.8048649,2.1203554,
+¼§Á©¸®Á¦,landmark,48.8697953,2.3078204,
+ÆÈ·¹°¡¸£´Ï¿¡,landmark,48.8719697,2.3316014,
+¸¶·¹Áö±¸,landmark,48.8646446,2.3563052,
+¸ù¸¶¸£¶ß¾ð´ö,landmark,48.8879156,2.3295736,
+»ýÆ®»þÆç¼º´ç,landmark,48.85542,2.344987,
+µðÁî´Ï·£µå,landmark,48.8671769,2.7838265,
+»Ú·À¶¥¹éÈ­Á¡,landmark,48.8739202,2.3287891,
+»ýÁ¦¸£¸Íµ¥ÇÁ·¹,landmark,48.8537981,2.3333285,
+¶óÆÄ¿¹Æ®¹éÈ­Á¡,landmark,48.873588,2.33215,
+¸ùÁê¾à±¹,landmark,48.8425708,2.3519151,
+Æ¥¸£¸®Á¤¿ø,landmark,48.8634916,2.3274943,
+ÆþÇÇµÎ¼¾ÅÍ,landmark,48.860642,2.352245,
+»þ¿ä±Ã,landmark,48.8623598,2.2880997,
+Monhotel Lounge SPA,hotel,48.8743481,2.2897334,8.4
+Kube Hotel Ice Bar,hotel,48.88657,2.3588332,7.2
+Splendid Etoile,hotel,48.874707,2.2936761,8.9
+Hotel Trianon Rive Gauche,hotel,48.8487675,2.3410376,8.2
+Novotel Suites Paris Nord 18 me,hotel,48.9015941,2.3597783,7.4
+Select Hotel,hotel,48.8483053,2.3425596,8.9
+H tel De Vend me,hotel,48.8668564,2.3286339,8.7
+Pullman Paris Centre Bercy,hotel,48.8315204,2.3870797,8.7
+Gardette Park Hotel,hotel,48.8610265,2.3788974,8.2
+Hotel Panache,hotel,48.8732543,2.343239,8.6
+H tel des Ducs D Anjou,hotel,48.8598229,2.347111,7.7
+Hotel Scribe Paris Opera by Sofitel,hotel,48.8704175,2.3296832,8.6
+H tel Juliana Paris,hotel,48.8619373,2.3040298,8.6
+Hotel L Antoine,hotel,48.8524215,2.3743832,8.9
+Belfast,hotel,48.8756435,2.2938788,7.7
+Shangri La Hotel Paris,hotel,48.8637135,2.2934759,9.3
+Mercure Paris Tour Eiffel Pont Mirabeau,hotel,48.8460269,2.2788281,8
+Hotel Le 10 BIS,hotel,48.8780363,2.2864907,9.2
+Crowne Plaza Paris R publique,hotel,48.8673199,2.3656296,8
+Le Metropolitan a Tribute Portfolio Hotel,hotel,48.8656973,2.2829776,8.3
+Atala Champs Elys es,hotel,48.8735418,2.302442,8.2
+H tel de Jos phine BONAPARTE,hotel,48.8555319,2.3621212,9
+Maison Souquet,hotel,48.88366,2.3313845,9.3
+Hotel Tour d Auvergne Opera,hotel,48.8789432,2.3448623,8.3
+Le Senat,hotel,48.8491427,2.3397118,8.3
+Windsor Opera,hotel,48.8734851,2.3485111,8.3
+Holiday Inn Paris Montparnasse Pasteur,hotel,48.8376887,2.3063102,7.1
+H tel Keppler,hotel,48.8699103,2.2973386,9.1
+Les Plumes Hotel,hotel,48.8766269,2.3432886,8.8
+Hotel des Tuileries Relais du Silence,hotel,48.8661705,2.331561,8.1
+Bradford Elys es Astotel,hotel,48.8729676,2.3081178,9.1
+Amp re,hotel,48.8848583,2.2997023,8.8
+Melia Paris Champs Elys es,hotel,48.8688962,2.2827459,8.3
+Le Parisis Paris Tour Eiffel,hotel,48.8494851,2.2955063,8.6
+Hilton Paris Opera,hotel,48.8756604,2.3252075,8.4
+Holiday Inn Paris Gare de Lyon Bastille,hotel,48.8468064,2.3714789,8.3
+H tel Chaplain Paris Rive Gauche,hotel,48.8427564,2.3305636,8.7
+H tel Regina Op ra Grands Boulevards,hotel,48.8708508,2.3515882,7.9
+Hotel Astor Saint Honor ,hotel,48.8728324,2.3193886,7.5
+Op ra Marigny,hotel,48.871723,2.3235377,8.1
+H tel Diva Opera,hotel,48.8732706,2.3450746,8.3
+Le Marcel,hotel,48.8761376,2.3572681,8.5
+H tel Duo,hotel,48.8581186,2.3529369,8.6
+H tel Le Marianne,hotel,48.8725794,2.3075779,8.7
+Hotel Eden,hotel,48.8405612,2.2991035,8.5
+H tel de la Bourdonnais,hotel,48.8550466,2.304583,8.8
+Best Western Premier Marais Grands Boulevards,hotel,48.8687425,2.3541761,8.3
+Le Dokhan s a Tribute Portfolio Hotel,hotel,48.8663359,2.2867935,7.9
+Le Relais Madeleine,hotel,48.870961,2.3267678,8.7
+Terrass H tel Montmartre by MH,hotel,48.8865626,2.3329648,9
+Millennium Hotel Paris Opera,hotel,48.8724588,2.3378004,7.8
+Waldorf Madeleine,hotel,48.8715828,2.3224853,8.4
+Hotel La Lanterne,hotel,48.8489839,2.348383,9
+H tel Square Louvois,hotel,48.8684165,2.336869,9.3
+Hotel Marignan Champs Elys es,hotel,48.8685093,2.3067895,8.7
+Le Grey Hotel,hotel,48.881407,2.3274204,9
+Le Pavillon des Lettres,hotel,48.8713699,2.3181191,9
+H tel San R gis,hotel,48.8665788,2.3084447,8.7
+Garden Elys e,hotel,48.8663444,2.2881979,8.5
+Hotel Louvre Montana,hotel,48.8644627,2.3318473,8.4
+Le 123 S bastopol Astotel,hotel,48.8675886,2.3531018,9.3
+Le 123 Elysees Astotel,hotel,48.8730823,2.309659,9.2
+Best Western Mercedes Arc de Triomphe,hotel,48.8848292,2.3035189,7.8
+1K Hotel,hotel,48.8639318,2.3658744,7.7
+H tel Westminster,hotel,48.8693409,2.3310263,8.4
+L H tel,hotel,48.8562272,2.3351758,8.8
+Mercure Paris Porte d Orleans,hotel,48.8178079,2.3293636,7.5
+Maxim Op ra,hotel,48.8738557,2.3444232,8.4
+Le Marceau Bastille,hotel,48.8490691,2.3697484,8.6
+Hotel Odeon Saint Germain,hotel,48.8513515,2.3375084,8.6
+La Villa Haussmann,hotel,48.8753446,2.3167161,9.2
+Sofitel Paris Arc De Triomphe,hotel,48.8751845,2.3013214,8.8
+Hotel Mercure La Sorbonne Saint Germain des Pr s,hotel,48.8493499,2.3430569,8.3
+La Tremoille Paris,hotel,48.8668589,2.3028215,8.5
+Hotel Op ra Richepanse,hotel,48.8686931,2.325211,9.2
+H tel Duc De St Simon,hotel,48.8560685,2.3236846,9
+Hotel Le Six,hotel,48.8438352,2.3280708,9.1
+Best Western Premier Louvre Saint Honor ,hotel,48.861711,2.340674,8.1
+La Villa Maillot,hotel,48.875551,2.2835191,8.9
+H tel Madison by MH,hotel,48.8531641,2.3344097,8.8
+Novotel Paris 14 Porte d Orl ans,hotel,48.8196885,2.3263505,8.3
+Ritz Paris,hotel,48.8679466,2.3289593,9.8
+Hotel Les Rives de Notre Dame,hotel,48.8532269,2.3457159,8.6
+Sofitel Paris Le Faubourg,hotel,48.868414,2.3213247,8.5
+Bassano,hotel,48.8690596,2.2971078,8.3
+Best Western Premier Le Swann,hotel,48.8797331,2.3206003,8.3
+H tel des Academies et des Arts,hotel,48.8420669,2.3304091,8.8
+Hotel Lumen Paris Louvre,hotel,48.8652582,2.3329632,8.7
+Le Marquis Eiffel,hotel,48.8516619,2.2979395,8.8
+COQ Hotel Paris,hotel,48.8328764,2.3572531,9
+Mill sime H tel,hotel,48.8550236,2.3350786,9.3
+Legend Saint Germain by Elegancia,hotel,48.8453774,2.3256427,8.9
+Au Manoir Saint Germain,hotel,48.853688,2.3322667,8.6
+Best Western S vres Montparnasse,hotel,48.843707,2.3155631,7.8
+Nolinski Paris,hotel,48.8654874,2.3348924,9.4
+Le Tourville Eiffel,hotel,48.8542681,2.3078116,8.8
+Paris Marriott Opera Ambassador Hotel,hotel,48.8728351,2.3362507,7.9
+Idol Hotel,hotel,48.8795369,2.3202966,9.1
+H tel California Champs Elys es,hotel,48.8726335,2.3048084,8.2
+Hotel de Seze,hotel,48.8705741,2.3264194,9.2
+H tel Hor,hotel,48.8793427,2.3577745,8.6
+Best Western Op ra Batignolles,hotel,48.8870573,2.3143297,7.6
+H tel de Banville,hotel,48.8864673,2.2948911,8.7
+Villa Eugenie,hotel,48.8871283,2.314205,6.8
+H tel Raphael,hotel,48.8713239,2.2937849,8.7
+Le 7 Eiffel Hotel,hotel,48.8585193,2.3077243,8.5
+Paris Marriott Rive Gauche Hotel,hotel,48.8315962,2.3399796,7.5
+Hotel Le Pera,hotel,48.871309,2.3277079,7.8
+H tel Bedford,hotel,48.8720593,2.3236802,8.6
+Drawing Hotel,hotel,48.8644382,2.3359148,8.9
+Novotel Paris Centre Gare Montparnasse,hotel,48.838484,2.3150904,8.1
+D clic Hotel,hotel,48.8908018,2.3380204,8.8
+Villa d Estr es,hotel,48.8535089,2.3425787,8.7
+Hotel Plaza Elys es,hotel,48.8746128,2.3056956,8.5
+Hotel Champs Elys es Friedland by Happyculture,hotel,48.8750848,2.3048372,8.7
+Pullman Paris Tour Eiffel,hotel,48.8555664,2.2926243,8.6
+Hotel Bachaumont,hotel,48.8663208,2.3450399,8.8
+Franklin Roosevelt,hotel,48.8678432,2.3033075,8.6
+H tel Horset Op ra Best Western Premier Collection,hotel,48.8691686,2.3337818,8.5
+Best Western Paris Gare Saint Lazare,hotel,48.8803752,2.319591,7.6
+Splendide Royal Paris,hotel,48.8709627,2.3154141,9.4
+Mercure Paris Alesia,hotel,48.8237487,2.324056,8.4
+Hotel The Peninsula Paris,hotel,48.8710605,2.2933537,9.5
+Le Narcisse Blanc Spa,hotel,48.8605125,2.3106533,9.5
+H tel Les Dames du Panth on,hotel,48.845743,2.34493,8.8
+H tel Victor Hugo Paris Kl ber,hotel,48.8690198,2.2891278,7.9
+Grand Hotel Saint Michel,hotel,48.8478399,2.342254,8.8
+Hotel Maison Ath n e,hotel,48.8713421,2.3280723,8.8
+Relais Du Louvre,hotel,48.8592264,2.340996,8.9
+Pullman Paris Montparnasse,hotel,48.8382943,2.3210421,8.1
+Best Western Ducs de Bourgogne,hotel,48.8603483,2.3440535,7.7
+Best Western Premier Op ra Opal,hotel,48.8722588,2.3257608,8.6
+Amarante Champs Elys es,hotel,48.8717649,2.2983855,7.7
+H tel Ad le Jules,hotel,48.8721062,2.3451384,9.1
+Molitor Paris MGallery by Sofitel,hotel,48.8448902,2.252833,8.8
+First Hotel Paris Tour Eiffel,hotel,48.8475112,2.3022198,8.3
+H tel Regina,hotel,48.8637503,2.3320406,9
+Mercure Paris Gare De Lyon TGV,hotel,48.8442949,2.3730938,7.9
+Villa Montparnasse,hotel,48.8349272,2.3295913,7.6
+H tel des Champs Elys es,hotel,48.8722884,2.3090359,8.4
+Lyric H tel Paris,hotel,48.8690126,2.3368708,8.9
+Hotel Design Secret de Paris,hotel,48.8814056,2.3282568,9.2
+Hotel Dupond Smith,hotel,48.857898,2.3571978,9.3
+Okko Hotels Paris Porte De Versailles,hotel,48.8327729,2.2787597,9.2
+La Villa Royale,hotel,48.8821595,2.3367444,8.1
+Hotel Indigo Paris Opera,hotel,48.8704371,2.329236,9.1
+Villa Opera Drouot,hotel,48.8732231,2.3436097,8.4
+Novotel Paris Gare De Lyon,hotel,48.8453785,2.3753036,8.5
+H tel Belloy Saint Germain By Happyculture,hotel,48.8503901,2.3422527,8.3
+Hotel Louis 2,hotel,48.8516148,2.3381293,8.4
+InterContinental Paris Le Grand,hotel,48.8708391,2.3303651,8.8
+H tel Le M,hotel,48.8397623,2.3235324,8.2
+Seven Hotel,hotel,48.8389823,2.3455528,8.5
+Platine Hotel Spa,hotel,48.8473459,2.2832408,8.6
+Mercure Paris Notre Dame Saint Germain des Pr s,hotel,48.8503074,2.3450612,8
+Mercure Paris Centre Tour Eiffel,hotel,48.8548641,2.2923181,8
+Banke H tel,hotel,48.8735736,2.335965,8.4
+Saint James Albany Paris Hotel Spa,hotel,48.8642689,2.3308179,8
+Mercure Paris Montparnasse Raspail,hotel,48.8412131,2.3302954,8.2
+Golden Tulip Bercy Gare de Lyon 209,hotel,48.8393229,2.3892274,8.7
+Montfleuri,hotel,48.8747153,2.2906388,8.2
+Mercure Paris Pigalle Sacre Coeur,hotel,48.8823398,2.3364764,8.3
+Mercure Paris Terminus Nord,hotel,48.8794843,2.3556545,7.4
+H tel F licien by Elegancia,hotel,48.8493082,2.2743626,8.4
+Le Lavoisier,hotel,48.8737702,2.3201063,8
+H tel Moli re,hotel,48.8655293,2.3360102,9.2
+Vice Versa,hotel,48.8363819,2.2897793,8.3
+H tel Etoile Saint Honor by Happyculture,hotel,48.8756508,2.3041568,8.2
+Hotel Le petit Paris,hotel,48.8452789,2.342295,8.8
+Mercure Paris 19 Philharmonie La Villette,hotel,48.8886969,2.3945403,7.5
+Royal Garden Champs Elysees,hotel,48.8757155,2.3038781,7.3
+H tel Brighton Esprit de France,hotel,48.8649306,2.3290844,8.7
+H tel Paris Bastille Boutet MGallery by Sofitel,hotel,48.8519215,2.3839993,8.8
+L Edmond H tel,hotel,48.8823111,2.3132374,8.2
+Novotel Suites Paris Montreuil Vincennes,hotel,48.8554268,2.4152555,7.6
+H tel France d Antin Op ra,hotel,48.8692566,2.3339369,8.5
+Hotel Stendhal Place Vend me Paris MGallery by Sofitel,hotel,48.8681455,2.3313064,8.8
+H tel De Buci by MH,hotel,48.8538752,2.3366123,8.9
+Hotel Parc Saint Severin Esprit de France,hotel,48.8518584,2.3447798,9.1
+Hotel Chavanel,hotel,48.8721692,2.3262681,8.7
+Royal Saint Honore,hotel,48.8658792,2.3298903,8.6
+Le Meurice,hotel,48.8653685,2.328218,9.3
+Maison Albar Hotel Paris C line,hotel,48.8606187,2.344401,8.9
+Hotel Pulitzer Paris,hotel,48.8731996,2.3425446,8.4
+Hotel Vignon,hotel,48.8717146,2.3261812,8.8
+H tel Aiglon Esprit de France,hotel,48.8396623,2.3300582,8.9
+Hotel Elys es Bassano,hotel,48.8689307,2.2974503,7.9
+Hotel Opera Cadet,hotel,48.8754371,2.3434586,8.5
+Phileas Hotel,hotel,48.8768854,2.3270623,8.7
+Holiday Inn Paris Elys es,hotel,48.8730437,2.3161144,8
+H tel Beauchamps,hotel,48.87096,2.3091617,8.1
+Best Western Nouvel Orl ans Montparnasse,hotel,48.8309896,2.3297301,8.1
+Hotel Plaza Athenee Paris,hotel,48.8661932,2.3042141,9.3
+Mercure Paris Place d Italie,hotel,48.830196,2.3529539,7.9
+H tel Da Vinci Spa,hotel,48.8565778,2.3319767,9.1
+XO Hotel,hotel,48.8827492,2.2982782,8.9
+H tel Vernet,hotel,48.871859,2.2978177,8.6
+Mandarin Oriental Paris,hotel,48.8671889,2.326927,9.1
+Novotel Paris Vaugirard Montparnasse,hotel,48.8399018,2.3031011,7.6
+Mercure Paris Arc de Triomphe Etoile,hotel,48.8782679,2.294852,7.9
+Forest Hill Paris la Villette,hotel,48.8969854,2.3852745,7.6
+Le Pavillon de la Reine Spa,hotel,48.8562725,2.3660412,9.2
+Hidden Hotel by Elegancia,hotel,48.8775326,2.293458,9.1
+Le Roch Hotel Spa,hotel,48.8661991,2.3328826,9
+Hotel du Petit Moulin,hotel,48.8615843,2.3620652,9.1
+Hotel Atmospheres,hotel,48.8485387,2.3479852,8.7
+H tel La Comtesse by Elegancia,hotel,48.853865,2.3072019,9
+Hotel Astra Opera Astotel,hotel,48.8718321,2.3278866,8.4
+Hotel La Villa Saint Germain Des Pr s,hotel,48.8553486,2.3340736,9.1
+Grand Pigalle Hotel,hotel,48.880856,2.3375085,9.1
+Hotel Duminy Vendome,hotel,48.8654726,2.3292934,8.2
+Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,hotel,48.8753837,2.2944651,8.4
+H tel Recamier,hotel,48.8503493,2.3344305,9
+TRYP Paris Op ra,hotel,48.8713619,2.3426375,7.8
+Royal Saint Michel,hotel,48.8528364,2.3440803,8
+Hyatt Regency Paris Etoile,hotel,48.8802782,2.2843852,7.1
+Relais Saint Jacques,hotel,48.8430523,2.3422519,8.7
+Hotel Cambon,hotel,48.866435,2.3251076,8.3
+Mercure Paris Montmartre Sacr Coeur,hotel,48.8852794,2.3301021,8.4
+Relais Christine,hotel,48.8542454,2.339956,9.1
+Les Matins de Paris Spa,hotel,48.878932,2.3394182,8.6
+Hotel Square,hotel,48.851589,2.2777274,8.5
+H tel Bourgogne Montana by MH,hotel,48.8601927,2.318423,8.9
+The Westin Paris Vend me,hotel,48.8657394,2.3274415,8.1
+Hotel Montalembert,hotel,48.8567042,2.3277805,8.5
+H tel Mathis Elys es,hotel,48.8700325,2.3112736,8.7
+Le Saint Hotel Paris,hotel,48.8565421,2.3303504,8.8
+Hotel Le Squara,hotel,48.884165,2.3328261,8.3
+L Hotel Pergol se Paris,hotel,48.8756618,2.2863468,8.2
+H tel Mayfair Paris,hotel,48.8661363,2.3260648,8.5
+Best Western Plus de Neuville Arc de Triomphe,hotel,48.8869128,2.3004034,8
+Holiday Inn Paris Op ra Grands Boulevards,hotel,48.8715469,2.3439622,8.2
+Le Belmont Champs Elys es,hotel,48.8691984,2.2979052,8.3
+Duret,hotel,48.8752553,2.286653,8.4
+H tel Elysees Mermoz,hotel,48.8715079,2.3122259,8.7
+Majestic Hotel Spa,hotel,48.8703672,2.2938868,8.7
+BoB Hotel by Elegancia,hotel,48.8335233,2.3191194,9
+Four Seasons Hotel George V Paris,hotel,48.8687512,2.3001692,9.3
+H tel Fabric,hotel,48.8629329,2.3723823,9.3
+H tel du Minist re,hotel,48.8712877,2.3191903,8.8
+Hotel Les Bulles De Paris,hotel,48.849147,2.3471935,8.2
+Acad mie H tel Saint Germain,hotel,48.855263,2.3305901,9
+Plaza Tour Eiffel,hotel,48.8645647,2.2821827,8.5
+Royal Hotel Champs Elys es,hotel,48.8740463,2.300196,7.9
+Best Western Allegro Nation,hotel,48.8430891,2.4049867,7.8
+Prince de Galles a Luxury Collection hotel Paris,hotel,48.869143,2.3006526,9
+H tel La Parizienne by Elegancia,hotel,48.8450894,2.3209503,8.5
+Madeleine Plaza,hotel,48.8710402,2.3248014,8.4
+Castille Paris Starhotels Collezione,hotel,48.8682978,2.3268027,8.7
+H tel D Aubusson,hotel,48.8547329,2.3395277,9.4
+Hotel Oscar,hotel,48.8694755,2.3046954,8.5
+Best Western Bretagne Montparnasse,hotel,48.8354314,2.321142,7.7
+Novotel Paris 17,hotel,48.8920485,2.3023791,7.9
+Artus Hotel by MH,hotel,48.8535639,2.3360169,9
+Best Western Premier Kapital Op ra,hotel,48.8814425,2.3235592,8.9
+Timhotel Op ra Blanche Fontaine,hotel,48.8825781,2.3334805,8.4
+H tel Amastan Paris,hotel,48.8716831,2.3123759,9.1
+H tel Gustave,hotel,48.8502052,2.289043,8.8
+Best Western Tour Eiffel Invalides,hotel,48.8593152,2.3104179,7.9
+Eiffel Trocad ro,hotel,48.8613055,2.2862823,8
+Hotel Saint Petersbourg Opera,hotel,48.872174,2.328075,8.9
+H tel Champs lys es Plaza,hotel,48.8737043,2.3061477,8.7
+Melia Paris Tour Eiffel,hotel,48.8651994,2.3045076,8.1
+Timhotel Op ra Grands Magasins,hotel,48.8794682,2.3334957,8.3
+Mercure Paris Porte De Versailles Expo,hotel,48.8268251,2.2912033,7.7
+Hotel Whistler,hotel,48.879314,2.3560185,9.2
+Hotel Georgette,hotel,48.8632723,2.352691,8.8
+Westside Arc de Triomphe Hotel,hotel,48.8811741,2.2948337,8.1
+Etoile Saint Ferdinand,hotel,48.8777895,2.2872498,8.3
+H tel Saint Marc,hotel,48.8708863,2.3382128,9.3
+H tel Le Walt,hotel,48.8547161,2.306642,8.8
+H tel Le Royal Monceau Raffles Paris,hotel,48.8756359,2.3004967,9.3
+Hotel Claridge Paris,hotel,48.8684243,2.3036244,8.1
+H tel L Echiquier Op ra Paris MGallery by Sofitel,hotel,48.8719889,2.3492913,9.1
+H tel De Castiglione,hotel,48.8691758,2.3205807,7.2
+Edouard 7 Paris Op ra,hotel,48.8683133,2.3330851,9.1
+Renaissance Paris Arc de Triomphe Hotel,hotel,48.8772093,2.2968266,8.4
+Novotel Suites Paris Expo Porte de Versailles,hotel,48.827388,2.305478,8.8
+K K H tel Cayr Saint Germain des Pr s,hotel,48.8553117,2.3254628,8.4
+Le Grand H tel de Normandie,hotel,48.8759461,2.3270955,7.5
+Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,hotel,48.8742767,2.3426276,8.7
+H tel de La Tamise Esprit de France,hotel,48.8648656,2.3295756,9.6
+Buddha Bar Hotel Paris,hotel,48.8694695,2.3208564,8.8
+Le A,hotel,48.8723844,2.3088663,8.9
+Holiday Inn Paris Notre Dame,hotel,48.8528427,2.3422256,8.3
+Mercure Paris Opera Garnier,hotel,48.8749511,2.3259532,8.1
+Grand H tel Du Palais Royal,hotel,48.8630829,2.3378592,9.2
+Best Western Aulivia Op ra,hotel,48.8730552,2.3540112,7.8
+Renaissance Paris Vendome Hotel,hotel,48.8654532,2.3295231,7.9
+Hotel Park Lane Paris,hotel,48.8745879,2.3188143,8.7
+Little Palace Hotel,hotel,48.8675674,2.3539896,8.2
+Napoleon Paris,hotel,48.8743885,2.2980915,8.5
+H tel de Lille,hotel,48.8585626,2.3299138,8.9
+H tel Concorde Montparnasse,hotel,48.8381079,2.318669,7.9
+Suites H tel Helzear Montparnasse,hotel,48.8346811,2.3255098,8.1
+Renaissance Paris Republique Hotel Spa,hotel,48.8687804,2.3610196,8.5
+Elys es R gencia,hotel,48.8686434,2.2984054,8.2
+H tel De Sers Champs Elys es Paris,hotel,48.8683593,2.3002117,8.5
+Hotel le Lapin Blanc,hotel,48.8491801,2.3423357,9.1
+H tel R de Paris Boutique Hotel,hotel,48.8799239,2.3288332,9.1
+Villa Panth on,hotel,48.8488044,2.3469889,8.1
+Trinit Haussmann,hotel,48.8800565,2.3342353,8.4
+H tel Crayon Rouge by Elegancia,hotel,48.8644967,2.3405415,9
+Mercure Paris Opera Grands Boulevards,hotel,48.8740668,2.3502172,8
+Hotel Le Saint Gregoire,hotel,48.8471891,2.3260138,8.5
+Le Mathurin Hotel Spa,hotel,48.8732068,2.3239015,8.6
+H tel Saint Paul Rive Gauche,hotel,48.8496819,2.3402806,8.9
+H tel de Varenne,hotel,48.8570275,2.3170282,8.7
+A La Villa Madame,hotel,48.8488608,2.3315257,8.8
+Le Tsuba Hotel,hotel,48.8777621,2.293177,9.3
+H tel Barri re Le Fouquet s,hotel,48.8710709,2.3013119,9
+Hotel Villa Lafayette Paris IX,hotel,48.8760884,2.3456465,8.8
+L Empire Paris,hotel,48.8607764,2.3427564,8.6
+Suites H tel Helzear Champs Elys es,hotel,48.8691399,2.2981024,8.2
+Best Western Premier Op ra Faubourg Ex Hotel Jules ,hotel,48.8753359,2.3414617,8.1
+Pershing Hall,hotel,48.8691325,2.3021659,8.2
+H tel Pont Royal,hotel,48.8565629,2.3273623,8.6
+Le G n ral H tel,hotel,48.8662695,2.3668616,9.1
+H tel Th r se,hotel,48.8816306,2.2992146,9
+Best Western Premier Trocadero La Tour,hotel,48.8583127,2.2795075,8
+Le Relais M dicis,hotel,48.8497618,2.3392336,8.3
+Les Jardins De La Villa Spa,hotel,48.8801757,2.2859534,8.8
+Warwick Paris Former Warwick Champs Elysees ,hotel,48.8722019,2.3030866,8.1
+Park Hyatt Paris Vendome,hotel,48.8688155,2.3305236,8.9
+My Home In Paris,hotel,48.8636049,2.3688352,9.1
+Mercure Paris Op ra Faubourg Montmartre,hotel,48.8729639,2.3444899,7.5
+Best Western Plus Elys e Secret,hotel,48.8701247,2.311141,7.7
+Villa Beaumarchais,hotel,48.8589516,2.3670407,8.1
+H tel Mansart Esprit de France,hotel,48.8684776,2.3298238,8.6
+Holiday Inn Paris Gare de l Est,hotel,48.8758981,2.3590504,7.9
+Le Cinq Codet,hotel,48.8547869,2.3084819,9
+La Maison Favart,hotel,48.870808,2.3372737,9.2
+Le Pradey,hotel,48.8645309,2.3315532,8.8
+Golden Tulip Washington Opera,hotel,48.866242,2.3373169,8.3
+Residence Henri IV,hotel,48.8481917,2.3490316,9.1
+Hotel du Collectionneur Arc de Triomphe,hotel,48.8769204,2.3069132,8.1
+Hotel Le Mareuil,hotel,48.8659899,2.3674149,8.9
+Mercure Paris Champs Elys es,hotel,48.8699731,2.2909401,7.2
+Best Western Le 18 Paris,hotel,48.8966167,2.3434843,7.6
+H tel Powers,hotel,48.8691409,2.3031503,8.5
+Villa Lut ce Port Royal,hotel,48.8364204,2.3603332,7
+Oceania Paris Porte De Versailles,hotel,48.8303023,2.2842872,8.2
+Mercure Paris Bastille Marais,hotel,48.8571207,2.3805581,8.1
+Chateau Frontenac,hotel,48.8689468,2.3026559,8.5
+H tel Du Jeu De Paume,hotel,48.8520377,2.3557092,8.7
+Renaissance Paris Le Parc Trocadero Hotel,hotel,48.8673099,2.2856528,8.1
+Hotel Carlton s Montmartre,hotel,48.8819068,2.3410005,7.8
+Hotel Monge,hotel,48.8447938,2.3524462,9.4
+Victoires Opera,hotel,48.8648997,2.3469433,7.5
+Le Burgundy Paris,hotel,48.8680055,2.3260075,9.1
+Hotel Sezz Paris,hotel,48.8566336,2.2852607,8.4
+Hotel Montaigne,hotel,48.865467,2.3038811,8.1
+Hotel Royal Elys es,hotel,48.8729666,2.2926226,7
+Mercure Paris Bercy Biblioth que,hotel,48.8370334,2.372322,8.4
+H tel Balzac,hotel,48.8732785,2.3004174,8.3
+Victoria Palace Hotel,hotel,48.8457587,2.3243071,8.3
+Hotel Eug ne en Ville,hotel,48.8750119,2.3416769,8.3
+Newhotel Roblin,hotel,48.8714152,2.3239679,8.8
+Le Relais Montmartre,hotel,48.8854538,2.3335809,9.3
+Amarante Beau Manoir,hotel,48.870994,2.3235329,7.2
+Hotel Maison FL,hotel,48.8396395,2.2663056,8.7
+Balmoral Champs Elys es,hotel,48.8759855,2.293938,8.7
+The Chess Hotel,hotel,48.8716017,2.3349768,8.7
+AC Hotel Paris Porte Maillot by Marriott,hotel,48.8820046,2.2818538,8.5
+B Montmartre,hotel,48.883631,2.3257643,9.2
+H tel Regent s Garden,hotel,48.8797513,2.2919634,9.1
+Mercure Paris 15 Porte de Versailles,hotel,48.8382542,2.2903494,8
+Hotel Le Placide Saint Germain Des Pr s,hotel,48.8498439,2.3244253,8.4
+Nell Hotel Suites,hotel,48.8741002,2.3426357,8.8
+Novotel Paris Centre Tour Eiffel,hotel,48.8500283,2.2834126,7.6
+Best Western Plus 61 Paris Nation Hotel,hotel,48.8465653,2.4102405,7.7
+Hotel Monsieur,hotel,48.8735135,2.3217457,9
+Hotel Saint Dominique,hotel,48.8599998,2.3087425,8.7
+Hotel Malte Astotel,hotel,48.8672474,2.33738,8.9
+InterContinental Paris Avenue Marceau,hotel,48.8706373,2.2982095,7.9
+Mercure Tour Eiffel Grenelle,hotel,48.850448,2.2928845,8.3
+Mercure Paris Bastille Saint Antoine,hotel,48.849574,2.3798518,7.9
+Boutique H tel Konfidentiel,hotel,48.8612535,2.3426256,8.9
+R Kipling by Happyculture,hotel,48.8820838,2.3315849,8.3
+Hotel Des Saints Peres Esprit de France,hotel,48.8534026,2.3299043,8.8
+Best Western Hotel Montmartre Sacr Coeur,hotel,48.888539,2.3498459,7.2
+H tel Jos phine by Happyculture,hotel,48.8823141,2.3316688,8.1
+Hotel Le Chat Noir,hotel,48.8836255,2.3340538,8.2
+Mercure Vaugirard Paris Porte De Versailles,hotel,48.8330649,2.2879617,8.5
+H tel Bel Ami,hotel,48.8550298,2.3332104,8.6
+Hotel de Nell,hotel,48.8732788,2.3466576,9
+9Hotel Republique,hotel,48.8708419,2.3605864,8.8
+Goralska R sidences H tel Paris Bastille,hotel,48.8482842,2.3657251,9.4
+H tel Baume,hotel,48.8501522,2.3392782,9
+Hotel West End,hotel,48.8671391,2.3038447,8.8
+Arioso,hotel,48.8746066,2.3167195,8.4
+H tel Lancaster Paris Champs Elys es,hotel,48.8723438,2.3033378,8.8
+Melia Paris Notre Dame,hotel,48.8515198,2.3486511,8.7
+Hotel Mademoiselle,hotel,48.8772493,2.3543043,8.6
+Hotel Les Bains Paris,hotel,48.863828,2.3519345,8.9
+Hotel Ares Eiffel,hotel,48.8503276,2.2982022,8.8
+Francois 1er,hotel,48.8701887,2.2997281,8.7
+H tel Montmartre Mon Amour,hotel,48.886687,2.3449332,8.1
+Hotel Monceau Wagram,hotel,48.8808779,2.2989756,7.9
+Paris Marriott Champs Elysees Hotel,hotel,48.8711365,2.3050482,7.9
+H tel Exquis by Elegancia,hotel,48.8536854,2.3805796,8.9
+Les Jardins Du Marais,hotel,48.8605219,2.3680239,8.1
+Radisson Blu Champs Elys es Paris,hotel,48.8719212,2.2971404,7.4
+Hotel Eiffel Blomet,hotel,48.8416787,2.3022862,9.4
+Holiday Inn Paris Gare Montparnasse,hotel,48.8382916,2.3230188,7.5
+H tel Thoumieux,hotel,48.8595985,2.3088076,8.9
+Auteuil Tour Eiffel,hotel,48.8506499,2.2750873,7.5
+Derby Alma,hotel,48.8605031,2.3006606,8.9
+Mercure Paris Gobelins Place d Italie,hotel,48.8321231,2.3536172,7.6
+H tel Original Paris,hotel,48.8546989,2.3691899,8.9
+Novotel Paris Les Halles,hotel,48.8607299,2.3465326,8.4
+Melia Paris Vendome,hotel,48.8668228,2.3257729,8.4
+Chambiges Elys es,hotel,48.8668048,2.3039465,8.9
+MARQUIS Faubourg St Honor Relais Ch teaux,hotel,48.8698184,2.3208729,8.6
+H tel Le Bellechasse Saint Germain,hotel,48.8597024,2.3239701,8.7
+Hotel Verneuil Saint Germain,hotel,48.8573706,2.3314669,8.7
+Hotel Daniel Paris,hotel,48.8728492,2.3073663,8.8
+Residence Du Roy,hotel,48.8657687,2.3090386,8.4
+La Maison Champs Elys es,hotel,48.866676,2.3089908,8.8
+H tel Arvor Saint Georges,hotel,48.8785454,2.3384866,8.7
+Le M ridien Etoile,hotel,48.8794646,2.2849548,8
+La Clef Tour Eiffel,hotel,48.8647019,2.2886425,9
+La Chambre du Marais,hotel,48.8636168,2.3607998,9.4
+Novotel Paris Centre Bercy,hotel,48.8384558,2.3805885,8.3
+Hotel OFF Paris Seine,hotel,48.8427364,2.3672171,8.4
+Snob Hotel by Elegancia,hotel,48.8622723,2.3495707,9
+Sofitel Paris Baltimore Tour Eiffel,hotel,48.8663089,2.289609,8.3
+Best Western Premier Faubourg 88,hotel,48.8776756,2.3493159,8.4
+Hotel De Vigny,hotel,48.8738672,2.3005894,7.5
+H tel Le Relais Saint Germain,hotel,48.8519208,2.338878,9.3
+Villa Alessandra,hotel,48.8794223,2.2957628,7.3
+Ibis Styles Paris Gare Saint Lazare,hotel,48.8796596,2.3209155,7.7
+Golden Tulip Opera de Noailles,hotel,48.8696173,2.3346428,8.6
+Best Western Premier Op ra Li ge,hotel,48.8795947,2.3280695,8.7
+H tel Cristal Champs Elys es,hotel,48.8726814,2.3020866,8.3
+Best Western Le Jardin de Cluny,hotel,48.8497553,2.3467616,8.5
+Le Pigalle Hotel,hotel,48.8816073,2.3371648,9
+Relais H tel du Vieux Paris,hotel,48.8538608,2.3429487,8.9
+Victoire Germain,hotel,48.853299,2.337993,9.3
+Le Littr ,hotel,48.8454447,2.3242814,8.6
+Hotel Le Sainte Beuve,hotel,48.8438998,2.3294858,8.9
+Hotel Villa Saxe Eiffel,hotel,48.849758,2.3095213,8.9
+Holiday Inn Paris Saint Germain des Pr s,hotel,48.846837,2.3258066,8.1
+Hotel Spa La Belle Juliette,hotel,48.8474426,2.3223783,8.9
+Rochester Champs Elysees,hotel,48.8724945,2.3091549,8.5
+Hotel d Orsay Esprit de France,hotel,48.8603599,2.3230778,9.1
+Mercure Paris Opera Louvre,hotel,48.8710895,2.3393461,8.1
+La Villa des Ternes,hotel,48.8803479,2.2858242,8.6
+H tel Monna Lisa Champs Elys es,hotel,48.874853,2.3245798,8.7
+H tel Waldorf Trocad ro,hotel,48.8672694,2.2878666,8.5
+Best Western Amiral Hotel,hotel,48.8252307,2.3569005,7.5
+Hotel Les Th tres,hotel,48.8694768,2.3515065,8.2
+Mercure Paris 17 me Saint Lazare Monceau,hotel,48.8837472,2.3186342,7.9
+Hotel du Louvre in the Unbound Collection by Hyatt,hotel,48.8639788,2.3352615,8.3
+W Paris Op ra,hotel,48.8719697,2.3316014,8.2
